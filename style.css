@@ -11,6 +11,11 @@ body {
   font-family: Arial, sans-serif;
   color: #495464;
   line-height: 22px;
+  transition: all 0.3s ease-out 0s;
+}
+
+body:hover {
+  background-color: #d2d3c7
 }
 
 h1 {
